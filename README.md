@@ -68,7 +68,7 @@ Enter an estimate of how many minutes it took you to fall asleep.
 
 ### Apple Health result
 
-![Apple Health result](assets/screenshots/sleep_apple-health (2).HEIC)
+![Apple Health result](assets/screenshots/sleep_apple-health-2.HEIC)
 
 ## Privacy
 
